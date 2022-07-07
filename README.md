@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Praniis 👋</h1>
-<h3 align="center">A passionate Data Enginner</h3>
+<h3 align="center">A passionate Full Stack Developer and PenTester</h3>
 <br/>
 <h3>📫 Lets Connect 🤝</h3>
 <p>
