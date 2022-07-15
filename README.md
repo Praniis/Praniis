@@ -3,9 +3,7 @@
 <br/>
 <h3>📫 Lets Connect 🤝</h3>
 <p>
-	<a href="https://twitter.com/praniisr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praniisr" height="30" width="40"></a> <span style="white-space:pre"> </span>
 	<a href="https://linkedin.com/in/praniis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praniis" height="30" width="40"></a> <span style="white-space:pre"> </span>
-	<a href="https://www.hackerrank.com/praniis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="praniis" height="30" width="40"></a>
 </p>
 <br>
 <h2>Languages and Tools: </h2>
